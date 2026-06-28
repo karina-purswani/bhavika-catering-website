@@ -1,4 +1,4 @@
-const CACHE_NAME = 'bhavika-catering-cache-v1';
+const CACHE_NAME = 'bhavika-catering-cache-v2';
 const ASSETS_TO_CACHE = [
   '/',
   '/index.html',
@@ -42,38 +42,45 @@ self.addEventListener('fetch', (event) => {
 
   const url = new URL(event.request.url);
 
-  // Network-First, cache fallback for document navigations
-  if (event.request.mode === 'navigate') {
+  // 1. Network-First, cache fallback for document navigations & unhashed bundle files (js, css)
+  const isNetworkFirst = 
+    event.request.mode === 'navigate' ||
+    url.pathname.endsWith('.js') ||
+    url.pathname.endsWith('.css') ||
+    url.pathname.includes('/assets/index.js') ||
+    url.pathname.includes('/assets/index.css');
+
+  if (isNetworkFirst) {
     event.respondWith(
       fetch(event.request)
         .then((response) => {
-          const responseCopy = response.clone();
-          caches.open(CACHE_NAME).then((cache) => {
-            cache.put(event.request, responseCopy);
-          });
+          if (response.status === 200) {
+            const responseCopy = response.clone();
+            caches.open(CACHE_NAME).then((cache) => {
+              cache.put(event.request, responseCopy);
+            });
+          }
           return response;
         })
         .catch(() => {
-          return caches.match('/index.html') || caches.match(event.request);
+          return caches.match(event.request) || caches.match('/index.html');
         })
     );
     return;
   }
 
-  // Cache-First strategy for static images, CSS, JS, and Google Fonts
-  const isStaticAsset = 
-    url.pathname.includes('/assets/') ||
+  // 2. Cache-First (with background Stale-While-Revalidate refresh) for images, SVGs, and Google Fonts
+  const isCacheFirstAsset = 
     url.pathname.endsWith('.png') ||
     url.pathname.endsWith('.jpg') ||
     url.pathname.endsWith('.jpeg') ||
     url.pathname.endsWith('.webp') ||
     url.pathname.endsWith('.svg') ||
-    url.pathname.endsWith('.css') ||
-    url.pathname.endsWith('.js') ||
+    url.pathname.includes('/assets/') || // Note: JS and CSS are already handled above
     url.host.includes('fonts.googleapis.com') ||
     url.host.includes('fonts.gstatic.com');
 
-  if (isStaticAsset) {
+  if (isCacheFirstAsset) {
     event.respondWith(
       caches.match(event.request).then((cachedResponse) => {
         if (cachedResponse) {

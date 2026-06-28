@@ -73,7 +73,7 @@ export const Menu: React.FC = () => {
 
       {/* Filters & Search Control Bar */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex flex-col lg:flex-row gap-6 items-center justify-between bg-white border border-gold/15 p-4 rounded-xl shadow-xs">
+        <div className="flex flex-col lg:flex-row gap-6 items-stretch lg:items-center justify-between bg-white border border-gold/15 p-4 rounded-xl shadow-xs">
           {/* Search Box */}
           <div className="relative w-full lg:max-w-[260px] text-left">
             <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-gold/60" size={16} />
