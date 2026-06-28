@@ -87,7 +87,7 @@ export const Menu: React.FC = () => {
           </div>
 
           {/* Category Scroller */}
-          <div className="flex-1 min-w-0 flex gap-2 overflow-x-auto no-scrollbar py-1 justify-start lg:justify-end">
+          <div className="w-full lg:w-auto flex-1 min-w-0 flex gap-2 overflow-x-auto no-scrollbar py-1 justify-start lg:justify-end">
             {categories.map((cat) => (
               <button
                 key={cat}
