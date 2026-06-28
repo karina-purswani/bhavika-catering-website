@@ -1,0 +1,44 @@
+[
+  {
+    "id": "g_0",
+    "title": "Special Moong Daal Halwa",
+    "category": "Food Items",
+    "image": "https://res.cloudinary.com/dwiaolucc/image/upload/v1782206418/bhavika-catering/gallery/moong-dal-halwa.jpg",
+    "desc": ""
+  },
+  {
+    "id": "g_1",
+    "title": "Special Paneer Parathas",
+    "category": "Food Items",
+    "image": "https://res.cloudinary.com/dwiaolucc/image/upload/v1782206420/bhavika-catering/gallery/paneer-paratha.jpg",
+    "desc": ""
+  },
+  {
+    "id": "g_2",
+    "title": "Signature Sindhi Lolo",
+    "category": "Food Items",
+    "image": "https://res.cloudinary.com/dwiaolucc/image/upload/v1782206421/bhavika-catering/gallery/sindi-lolo.jpg",
+    "desc": ""
+  },
+  {
+    "id": "g_3",
+    "title": "SIgnature Sindi Dal Pakwan",
+    "category": "Food Items",
+    "image": "https://res.cloudinary.com/dwiaolucc/image/upload/v1782497265/bhavika-catering/gallery/sindi-dal-pakwan.jpg",
+    "desc": ""
+  },
+  {
+    "id": "g_4",
+    "title": "Signature Sindi Sai Bhaji & Mix Veg",
+    "category": "Food Items",
+    "image": "https://res.cloudinary.com/dwiaolucc/image/upload/v1782497348/bhavika-catering/gallery/sindi-sai-bhaji-mix-veg.jpg",
+    "desc": ""
+  },
+  {
+    "id": "g_5",
+    "title": "Butter Paneer, Daal Rice, Roti, Pakoda - Complete Thali",
+    "category": "Food Items",
+    "image": "https://res.cloudinary.com/dwiaolucc/image/upload/v1782661196/bhavika-catering/gallery/butter-paneer-daal-rice-roti-pakoda-complete-thali.jpg",
+    "desc": ""
+  }
+]

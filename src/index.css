@@ -1,0 +1,147 @@
+@import "tailwindcss";
+
+@theme {
+  --color-gold: #B08D57;
+  --color-gold-light: #CDB896;
+  --color-brass: #B08D57;
+  --color-copper: #9A7847;
+  --color-cream: #F8F3EA;
+  --color-tan: #F1E8D8;
+  --color-sand: #EFE2CF;
+  --color-dark: #2C2A28;
+  --color-dark-card: #FFFFFF;
+  
+  --color-text-dark: #2C2A28;
+  --color-text-muted: #6B6661;
+
+  --font-serif: "Cormorant Garamond", "Playfair Display", serif;
+  --font-sans: "Poppins", sans-serif;
+  
+  --animate-float: float 6s ease-in-out infinite;
+  --animate-pulse-slow: pulse 4s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  --animate-steam: steam 4s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes steam {
+  0% {
+    transform: translateY(0) scaleX(1) scaleY(1);
+    opacity: 0;
+  }
+  15% {
+    opacity: 0.5;
+  }
+  50% {
+    transform: translateY(-30px) scaleX(1.2) scaleY(0.9) skewX(3deg);
+    opacity: 0.25;
+  }
+  100% {
+    transform: translateY(-70px) scaleX(1.4) scaleY(0.8) skewX(-3deg);
+    opacity: 0;
+  }
+}
+
+@layer base {
+  body {
+    background-color: #F8F3EA;
+    color: #2C2A28;
+    font-family: var(--font-sans);
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-serif);
+    letter-spacing: 0.01em;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #F8F3EA;
+}
+::-webkit-scrollbar-thumb {
+  background: #B08D57;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #9A7847;
+}
+
+/* Warm Paper-based Styling (Replacing dark glassmorphism) */
+.paper-premium {
+  background: #FFFFFF;
+  border: 1px solid rgba(176, 141, 87, 0.15);
+  box-shadow: 0 15px 40px rgba(44, 42, 40, 0.04);
+}
+
+.glass {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(176, 141, 87, 0.15);
+  box-shadow: 0 10px 30px rgba(44, 42, 40, 0.03);
+}
+
+.glass-nav {
+  background: rgba(241, 232, 216, 0.95);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(176, 141, 87, 0.15);
+}
+
+/* Warm Gold/Copper Text Gradient */
+.text-gold-gradient {
+  background: linear-gradient(135deg, #9A7847 0%, #B08D57 60%, #9A7847 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Copper Card Border Hover Effect */
+.card-hover-border {
+  position: relative;
+  transition: all 0.3s ease;
+}
+.card-hover-border::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  border: 1px solid transparent;
+  background: linear-gradient(135deg, #B08D57, #9A7847) border-box;
+  -webkit-mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+}
+.card-hover-border:hover::after {
+  opacity: 1;
+}
+
+/* 3D Perspective setup */
+.perspective-container {
+  perspective: 1200px;
+}
+.preserve-3d {
+  transform-style: preserve-3d;
+}
+
+/* Custom hides scrollbar helper */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

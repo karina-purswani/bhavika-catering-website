@@ -1,0 +1,2234 @@
+[
+  {
+    "id": "m_0",
+    "name": "Dal Pakwan",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian dal pakwan prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_1",
+    "name": "Koki",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian koki prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_2",
+    "name": "Sai Bhaji",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian sai bhaji prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_3",
+    "name": "Sindhi Kadhi",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian sindhi kadhi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_4",
+    "name": "Bhee Bhaji",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian bhee bhaji prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_5",
+    "name": "Seyal Mani",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian seyal mani prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_6",
+    "name": "Seyal Phulka",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian seyal phulka prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_7",
+    "name": "Bhuga Chawal",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian bhuga chawal prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_9",
+    "name": "Button Papdi",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian button papdi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_10",
+    "name": "Chhola Dhabal",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian chhola dhabal prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_11",
+    "name": "Aloo Pakoda",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian aloo pakoda prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_12",
+    "name": "Pyaaz Pakoda",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian pyaaz pakoda prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_13",
+    "name": "Mirchi Pakoda",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian mirchi pakoda prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_14",
+    "name": "Palak Pakoda",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian palak pakoda prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_15",
+    "name": "Bhendi Pakoda",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian bhendi pakoda prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_16",
+    "name": "Loki Pakoda",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian loki pakoda prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_17",
+    "name": "Karela Pakoda",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian karela pakoda prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_18",
+    "name": "Paneer Pakoda",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian paneer pakoda prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_19",
+    "name": "Mix Pakoda",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian mix pakoda prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_20",
+    "name": "Moong Bhajiya",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian moong bhajiya prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_21",
+    "name": "Aloo Vada",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian aloo vada prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_22",
+    "name": "Mitho Lolo",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian mitho lolo prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_23",
+    "name": "Dry Fruit Seyun",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian dry fruit seyun prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_24",
+    "name": "Meethi Seyun",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian meethi seyun prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_25",
+    "name": "Sindhi Pulav",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian sindhi pulav prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_26",
+    "name": "Masala Arbi (Kachalo)",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian masala arbi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_27",
+    "name": "Sindhi Chole",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian sindhi chole prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_28",
+    "name": "Sindhi Rajma",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian sindhi rajma prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_29",
+    "name": "Kairi Dal",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian kairi dal prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_30",
+    "name": "Besan Tikki",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian besan tikki prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_31",
+    "name": "Aloo Tuk",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian aloo tuk prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_32",
+    "name": "Sindhi Curry Rice",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian sindhi curry rice prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_33",
+    "name": "Dal Pattice",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian dal pattice prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_34",
+    "name": "Paneer Pattice",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian paneer pattice prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_35",
+    "name": "Soyabean Pattice",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian soyabean pattice prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_36",
+    "name": "Veg Pattice",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian veg pattice prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_37",
+    "name": "Bhee Pattice",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian lotus stem curry prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_39",
+    "name": "Sindhi Papad Roll",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian sindhi papad roll prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_40",
+    "name": "Boondi Raita",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian boondi raita prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_42",
+    "name": "Sindhi Mix Bhaji",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian sindhi mix bhaji prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_45",
+    "name": "Seyun Patata",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian seyun patata prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_46",
+    "name": "Sweet Rice Sindhi Style (Tairi)",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian sweet rice sindhi style prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_47",
+    "name": "Masala Bhindi Sindhi Style",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian masala bhindi sindhi style prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_48",
+    "name": "Moong Dal Pakwan",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian moong dal pakwan prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_49",
+    "name": "Chana Dal Pakwan",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian chana dal pakwan prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_50",
+    "name": "Bhee Aloo",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian bhee aloo prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_51",
+    "name": "Sai Dal",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian sai dal prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_52",
+    "name": "Taryal Patata",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian taryal patata prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_53",
+    "name": "Seyal Double",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian seyal double roti prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_56",
+    "name": "Papad Churi",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian papad churi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_58",
+    "name": "Bhugal Bhee",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian bhugal bhee prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_59",
+    "name": "Tindora Masala Sindhi (Tondli)",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian tindora masala sindhi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_60",
+    "name": "Tidali Daal",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian tidali daal sindhi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_61",
+    "name": "Juwaar Dodo",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian juwaar dodo sindhi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_62",
+    "name": "Bajra Dodo",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian bajra dodo sindhi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_63",
+    "name": "Chawal Dodo",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian chawal dodo sindhi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_64",
+    "name": "Masala Dodo",
+    "category": "Sindhi Specials",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian masala dodo sindhi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_65",
+    "name": "Paneer Butter Masala",
+    "category": "North Indian",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian paneer butter masala prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_66",
+    "name": "Shahi Paneer",
+    "category": "North Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian shahi paneer prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_67",
+    "name": "Kadai Paneer",
+    "category": "North Indian",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian kadai paneer prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_68",
+    "name": "Palak Paneer",
+    "category": "North Indian",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian palak paneer prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_69",
+    "name": "Matar Paneer",
+    "category": "North Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian matar paneer prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_70",
+    "name": "Paneer Bhurji",
+    "category": "North Indian",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian paneer bhurji prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_71",
+    "name": "Paneer Tikka Masala",
+    "category": "North Indian",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian paneer tikka masala prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_72",
+    "name": "Malai Kofta",
+    "category": "North Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian malai kofta prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_73",
+    "name": "Soyabean Kheema",
+    "category": "North Indian",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian soyabean kheema prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_74",
+    "name": "Veg Kolhapuri",
+    "category": "North Indian",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian veg kolhapuri prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_75",
+    "name": "Veg Handi",
+    "category": "North Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian veg handi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_76",
+    "name": "Mix Veg",
+    "category": "North Indian",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian mix veg prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_77",
+    "name": "Aloo Gobi",
+    "category": "North Indian",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian aloo gobi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_78",
+    "name": "Dum Aloo",
+    "category": "North Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian dum aloo prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_79",
+    "name": "Jeera Aloo",
+    "category": "North Indian",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian jeera aloo prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_80",
+    "name": "Methi Malai Paneer",
+    "category": "North Indian",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian methi malai paneer prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_81",
+    "name": "Methi Malai Matar",
+    "category": "North Indian",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian methi malai matar prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_82",
+    "name": "Rajma Masala",
+    "category": "North Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian rajma masala prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_83",
+    "name": "Chole Masala",
+    "category": "North Indian",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian chole masala prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_84",
+    "name": "Dal Tadka",
+    "category": "North Indian",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian dal tadka prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_85",
+    "name": "Dal Fry",
+    "category": "North Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian dal fry prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_86",
+    "name": "Dal Makhani",
+    "category": "North Indian",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian dal makhani prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_87",
+    "name": "Yellow Dal",
+    "category": "North Indian",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian yellow dal prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_88",
+    "name": "Lasooni Dal",
+    "category": "North Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian lasooni dal prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_89",
+    "name": "Veg Jaipuri",
+    "category": "North Indian",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian veg jaipuri prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_90",
+    "name": "Veg Hyderabadi",
+    "category": "North Indian",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian veg hyderabadi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_91",
+    "name": "Corn Masala",
+    "category": "North Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian corn masala prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_92",
+    "name": "Moong Bhajiya",
+    "category": "North Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian moong bhajiya prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_93",
+    "name": "Mushroom Masala",
+    "category": "North Indian",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian mushroom masala prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_94",
+    "name": "Bhindi Masala",
+    "category": "North Indian",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian bhindi masala prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_95",
+    "name": "Baingan Bharta",
+    "category": "North Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian baingan bharta prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_96",
+    "name": "Sev Tamatar",
+    "category": "North Indian",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian sev tamatar prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_97",
+    "name": "Kashmiri Dum Aloo",
+    "category": "North Indian",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian kashmiri dum aloo prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_99",
+    "name": "Paneer Lababdar",
+    "category": "North Indian",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian paneer lababdar prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_100",
+    "name": "Paneer Angara",
+    "category": "North Indian",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian paneer angara prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_101",
+    "name": "Paneer Do Pyaza",
+    "category": "North Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian paneer do pyaza prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_102",
+    "name": "Tawa Veg",
+    "category": "North Indian",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian tawa veg prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_104",
+    "name": "Gatte Ki Sabzi",
+    "category": "North Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian gatte ki sabzi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_105",
+    "name": "Gawaar Ki Sabzi",
+    "category": "North Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian gawaar ki sabzi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_106",
+    "name": "French Beans Ki Sabzi",
+    "category": "North Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian french beans ki sabzi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_107",
+    "name": "Pattagobi Ki Sabzi",
+    "category": "North Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian pattagobi ki sabzi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_108",
+    "name": "Shimla-mirch Aloo Sabzi",
+    "category": "North Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian shimla-mirch aloo sabzi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_109",
+    "name": "Turi Ki Sabzi (Gilke)",
+    "category": "North Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian turi ki sabzi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_110",
+    "name": "Jeera Rice",
+    "category": "North Indian",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian jeera rice prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_111",
+    "name": "Peas Pulao",
+    "category": "North Indian",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian peas pulao prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_112",
+    "name": "Veg Biryani",
+    "category": "North Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian veg biryani prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_113",
+    "name": "Kashmiri Pulao",
+    "category": "North Indian",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian kashmiri pulao prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_114",
+    "name": "Steam Rice",
+    "category": "North Indian",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian steam rice prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_115",
+    "name": "Curd Rice North Style",
+    "category": "North Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian curd rice north style prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_116",
+    "name": "Butter Naan",
+    "category": "North Indian",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian butter naan prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_117",
+    "name": "Garlic Naan",
+    "category": "North Indian",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian garlic naan prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_118",
+    "name": "Lachha Paratha",
+    "category": "North Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian lachha paratha prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_119",
+    "name": "Tandoori Roti",
+    "category": "North Indian",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian tandoori roti prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_120",
+    "name": "Missi Roti",
+    "category": "North Indian",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian missi roti prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_121",
+    "name": "Kulcha",
+    "category": "North Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian kulcha prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_122",
+    "name": "Fulka",
+    "category": "North Indian",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian fulka prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_123",
+    "name": "Bhakri (Dodo)",
+    "category": "North Indian",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian kulcha prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_124",
+    "name": "Veg Hakka Noodles",
+    "category": "Chinese",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian veg hakka noodles prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_125",
+    "name": "Schezwan Noodles",
+    "category": "Chinese",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian schezwan noodles prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_126",
+    "name": "Veg Fried Rice",
+    "category": "Chinese",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian veg fried rice prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_127",
+    "name": "Triple Schezwan Rice",
+    "category": "Chinese",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian triple schezwan rice prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_128",
+    "name": "Paneer Chilli",
+    "category": "Chinese",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian paneer chilli prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_129",
+    "name": "Veg Manchurian",
+    "category": "Chinese",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian veg manchurian prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_130",
+    "name": "Spring Roll",
+    "category": "Chinese",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian spring roll prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_131",
+    "name": "Chinese Bhel",
+    "category": "Chinese",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian chinese bhel prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_136",
+    "name": "Mushroom Chilli",
+    "category": "Chinese",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian mushroom chilli prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_137",
+    "name": "Manchow Soup",
+    "category": "Chinese",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian manchow soup prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_138",
+    "name": "Sweet Corn Soup",
+    "category": "Chinese",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian sweet corn soup prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_141",
+    "name": "Hong Kong Noodles",
+    "category": "Chinese",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian hong kong noodles prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_143",
+    "name": "Chilli Garlic Noodles",
+    "category": "Chinese",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian chilli garlic noodles prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_145",
+    "name": "Noddles Roll",
+    "category": "Chinese",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian noddles roll prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_146",
+    "name": "Veg Lollipop",
+    "category": "Chinese",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian veg lollipop prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_149",
+    "name": "Schezwan Fried Rice",
+    "category": "Chinese",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian schezwan fried rice prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_150",
+    "name": "Paneer Fried Rice",
+    "category": "Chinese",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian paneer fried rice prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_151",
+    "name": "Soyabean Chilli",
+    "category": "Chinese",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian soyabean chilli prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_152",
+    "name": "Veg Toast",
+    "category": "Chinese",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian veg toast prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_153",
+    "name": "Chilli Potato",
+    "category": "Chinese",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian chilli potato prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_155",
+    "name": "Paneer Satay",
+    "category": "Chinese",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian paneer satay prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_158",
+    "name": "Veg Chowmein",
+    "category": "Chinese",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian veg chowmein prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_159",
+    "name": "Plain Dosa",
+    "category": "South Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian plain dosa prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_160",
+    "name": "Masala Dosa",
+    "category": "South Indian",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian masala dosa prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_161",
+    "name": "Mysore Dosa",
+    "category": "South Indian",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian mysore dosa prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_162",
+    "name": "Rava Dosa",
+    "category": "South Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian rava dosa prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_163",
+    "name": "Onion Dosa",
+    "category": "South Indian",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian onion dosa prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_164",
+    "name": "Cheese Dosa",
+    "category": "South Indian",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian cheese dosa prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_165",
+    "name": "Topi Dosa",
+    "category": "South Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian set dosa prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_167",
+    "name": "Onion Uttapam",
+    "category": "South Indian",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian onion uttapam prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_168",
+    "name": "Tomato Uttapam",
+    "category": "South Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian tomato uttapam prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_169",
+    "name": "Mix Veg Uttapam",
+    "category": "South Indian",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian mix veg uttapam prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_170",
+    "name": "Idli",
+    "category": "South Indian",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian idli prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_171",
+    "name": "Medu Vada",
+    "category": "South Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian medu vada prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_172",
+    "name": "Sambar Vada",
+    "category": "South Indian",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian sambar vada prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_173",
+    "name": "Podi Idli",
+    "category": "South Indian",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian podi idli prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_176",
+    "name": "Lemon Rice",
+    "category": "South Indian",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian lemon rice prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_177",
+    "name": "Curd Rice",
+    "category": "South Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian curd rice prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_183",
+    "name": "Tamarind Rice",
+    "category": "South Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian tamarind rice prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_187",
+    "name": "Ragi Dosa",
+    "category": "South Indian",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian ragi dosa prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_188",
+    "name": "Vegetable Upma",
+    "category": "South Indian",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian vegetable upma prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_189",
+    "name": "Kesari Bath",
+    "category": "South Indian",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian kesari bath prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_190",
+    "name": "Pineapple Sheera",
+    "category": "South Indian",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian pineapple sheera prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_191",
+    "name": "South Indian Thali",
+    "category": "South Indian",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian south indian thali prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_192",
+    "name": "Pani Puri",
+    "category": "Street Food",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian pani puri prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_193",
+    "name": "Sev Puri",
+    "category": "Street Food",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian sev puri prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_194",
+    "name": "Dahi Puri",
+    "category": "Street Food",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian dahi puri prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_195",
+    "name": "Bhel Puri",
+    "category": "Street Food",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian bhel puri prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_196",
+    "name": "Ragda Pattice",
+    "category": "Street Food",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian ragda pattice prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_197",
+    "name": "Samosa Chaat",
+    "category": "Street Food",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian samosa chaat prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_198",
+    "name": "Pav Bhaji",
+    "category": "Street Food",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian pav bhaji prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_199",
+    "name": "Tawa Pulav",
+    "category": "Street Food",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian tawa pulav prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_200",
+    "name": "Vada Pav",
+    "category": "Street Food",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian vada pav prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_201",
+    "name": "Dabeli",
+    "category": "Street Food",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian dabeli prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_202",
+    "name": "Misal Pav",
+    "category": "Street Food",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian misal pav prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_203",
+    "name": "Samosa",
+    "category": "Street Food",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian samosa prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_204",
+    "name": "Kachori",
+    "category": "Street Food",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian kachori prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_205",
+    "name": "Aloo Tikki Chaat",
+    "category": "Street Food",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian aloo tikki chaat prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_206",
+    "name": "Chole Bhature",
+    "category": "Street Food",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian chole bhature prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_207",
+    "name": "Bread Pakoda",
+    "category": "Street Food",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian bread pakoda prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_209",
+    "name": "Frankie",
+    "category": "Street Food",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian frankie prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_211",
+    "name": "Veg Sandwich",
+    "category": "Street Food",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian veg sandwich prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_212",
+    "name": "Grilled Sandwich",
+    "category": "Street Food",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian grilled sandwich prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_213",
+    "name": "Bombay Toast",
+    "category": "Street Food",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian bombay toast prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_214",
+    "name": "Paneer Roll",
+    "category": "Street Food",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian paneer roll prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_215",
+    "name": "Noodle Roll",
+    "category": "Street Food",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian noodle roll prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_216",
+    "name": "Corn Chaat",
+    "category": "Street Food",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian corn chaat prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_217",
+    "name": "Fruit Chaat",
+    "category": "Street Food",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian fruit chaat prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_218",
+    "name": "Raj Kachori",
+    "category": "Street Food",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian raj kachori prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_221",
+    "name": "Matar Kachori",
+    "category": "Street Food",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian matar kachori prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_223",
+    "name": "Bun Maska",
+    "category": "Street Food",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian bun maska prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_224",
+    "name": "Masala Pav",
+    "category": "Street Food",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian masala pav prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_225",
+    "name": "Cheese Pav Bhaji",
+    "category": "Street Food",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian cheese pav bhaji prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_226",
+    "name": "Mumbai Bhel",
+    "category": "Street Food",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian mumbai bhel prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_227",
+    "name": "Corn Bhel",
+    "category": "Street Food",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian corn bhel prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_228",
+    "name": "Dahi Papdi Chaat",
+    "category": "Street Food",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian dahi papdi chaat prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_229",
+    "name": "Schezwan Vada Pav",
+    "category": "Street Food",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian schezwan vada pav prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_230",
+    "name": "Gulab Jamun",
+    "category": "Desserts",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian gulab jamun prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_231",
+    "name": "Rasgulla",
+    "category": "Desserts",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian rasgulla prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_232",
+    "name": "Rasmalai",
+    "category": "Desserts",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian rasmalai prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_233",
+    "name": "Jalebi",
+    "category": "Desserts",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian jalebi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_234",
+    "name": "Rabdi",
+    "category": "Desserts",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian rabdi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_235",
+    "name": "Malpua",
+    "category": "Desserts",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian malpua prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_236",
+    "name": "Gajar Halwa",
+    "category": "Desserts",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian gajar halwa prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_237",
+    "name": "Moong Dal Halwa",
+    "category": "Desserts",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian moong dal halwa prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_238",
+    "name": "Shahi Tukda",
+    "category": "Desserts",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian shahi tukda prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_239",
+    "name": "Kheer",
+    "category": "Desserts",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian kheer prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_241",
+    "name": "Kulfi",
+    "category": "Desserts",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian kulfi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_242",
+    "name": "Matka Kulfi",
+    "category": "Desserts",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian matka kulfi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_243",
+    "name": "Basundi",
+    "category": "Desserts",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian basundi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_244",
+    "name": "Fruit Custard",
+    "category": "Desserts",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian fruit custard prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_245",
+    "name": "Sitaphal Basundi",
+    "category": "Desserts",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian sitaphal basundi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_246",
+    "name": "Mango Shrikhand",
+    "category": "Desserts",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian mango shrikhand prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_247",
+    "name": "Elaichi Shrikhand",
+    "category": "Desserts",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian elaichi shrikhand prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_248",
+    "name": "Aamras",
+    "category": "Desserts",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian aamras prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_249",
+    "name": "Dry Fruit Halwa",
+    "category": "Desserts",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian dry fruit halwa prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_251",
+    "name": "Sabudana Kheer",
+    "category": "Desserts",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian sabudana kheer prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_252",
+    "name": "Rice Kheer",
+    "category": "Desserts",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian rice kheer prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_253",
+    "name": "Rabri Jalebi",
+    "category": "Desserts",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian rabri jalebi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_254",
+    "name": "Kesari Sheera",
+    "category": "Desserts",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian kesari sheera prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_256",
+    "name": "Coconut Barfi",
+    "category": "Desserts",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian coconut barfi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_257",
+    "name": "Kaju Katli",
+    "category": "Desserts",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian kaju katli prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_258",
+    "name": "Anjeer Barfi",
+    "category": "Desserts",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian anjeer barfi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_260",
+    "name": "Cham Cham",
+    "category": "Desserts",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian cham cham prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_262",
+    "name": "Motichoor Ladoo",
+    "category": "Desserts",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian motichoor ladoo prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_263",
+    "name": "Besan Ladoo",
+    "category": "Desserts",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian besan ladoo prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_264",
+    "name": "Boondi Ladoo",
+    "category": "Desserts",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian boondi ladoo prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_265",
+    "name": "Peda",
+    "category": "Desserts",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian peda prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_266",
+    "name": "Milk Cake",
+    "category": "Desserts",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian milk cake prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_268",
+    "name": "Sweet Lassi",
+    "category": "Beverages",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian sweet lassi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_269",
+    "name": "Salted Lassi",
+    "category": "Beverages",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian salted lassi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_270",
+    "name": "Mango Lassi",
+    "category": "Beverages",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian mango lassi prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_271",
+    "name": "Masala Chaas",
+    "category": "Beverages",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian masala chaas prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_272",
+    "name": "Buttermilk",
+    "category": "Beverages",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian buttermilk prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_273",
+    "name": "Cold Coffee",
+    "category": "Beverages",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian cold coffee prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_274",
+    "name": "Hot Coffee",
+    "category": "Beverages",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian hot coffee prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_275",
+    "name": "Masala Tea",
+    "category": "Beverages",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian masala tea prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_276",
+    "name": "Green Tea",
+    "category": "Beverages",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian green tea prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_277",
+    "name": "Fresh Lime Soda",
+    "category": "Beverages",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian fresh lime soda prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_278",
+    "name": "Jaljeera",
+    "category": "Beverages",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian jaljeera prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_279",
+    "name": "Kokum Sharbat",
+    "category": "Beverages",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian kokum sharbat prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_280",
+    "name": "Rose Milk",
+    "category": "Beverages",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian rose milk prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_281",
+    "name": "Badam Milk",
+    "category": "Beverages",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian badam milk prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_282",
+    "name": "Kesar Milk",
+    "category": "Beverages",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian kesar milk prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_283",
+    "name": "Watermelon Juice",
+    "category": "Beverages",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian watermelon juice prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_285",
+    "name": "Orange Juice",
+    "category": "Beverages",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian orange juice prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_286",
+    "name": "Pineapple Juice",
+    "category": "Beverages",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian pineapple juice prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_287",
+    "name": "Apple Juice",
+    "category": "Beverages",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian apple juice prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_292",
+    "name": "Blue Lagoon Mocktail",
+    "category": "Beverages",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian blue lagoon mocktail prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_295",
+    "name": "Chocolate Milkshake",
+    "category": "Beverages",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian chocolate milkshake prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_296",
+    "name": "Strawberry Milkshake",
+    "category": "Beverages",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian strawberry milkshake prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_297",
+    "name": "Mango Milkshake",
+    "category": "Beverages",
+    "tags": [
+      "Signature"
+    ],
+    "description": "Authentic vegetarian mango milkshake prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_298",
+    "name": "Banana Shake",
+    "category": "Beverages",
+    "tags": [
+      "Most Ordered"
+    ],
+    "description": "Authentic vegetarian banana shake prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  },
+  {
+    "id": "m_299",
+    "name": "Dry Fruit Shake",
+    "category": "Beverages",
+    "tags": [
+      "Occassional"
+    ],
+    "description": "Authentic vegetarian dry fruit shake prepared using quality ingredients and ideal for weddings, family functions and catering events."
+  }
+]
