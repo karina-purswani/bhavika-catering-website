@@ -6,7 +6,6 @@
   "scripts": {
     "predev": "python scripts/convert_all.py",
     "dev": "vite",
-    "prebuild": "python scripts/convert_all.py",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
