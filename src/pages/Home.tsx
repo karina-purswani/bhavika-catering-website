@@ -5,6 +5,7 @@ import { useBooking } from '../context/BookingContext';
 import AnimatedCounter from '../components/AnimatedCounter';
 import ScrollReveal from '../components/ScrollReveal';
 import GoogleReviewsWidget from '../components/GoogleReviewsWidget';
+import galleryData from '../data/gallery.json';
 
 // Paste your third-party Google Reviews widget code here (e.g. from Elfsight, Trustindex, etc.)
 const GOOGLE_REVIEWS_WIDGET_CODE = `<!-- Elfsight Google Reviews | Untitled Google Reviews -->
@@ -680,57 +681,25 @@ export const Home: React.FC = () => {
 
           {/* Elegant grid preview */}
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-            <ScrollReveal delay={0.1} className="relative group overflow-hidden rounded-xl h-64 border border-gold/15 bg-white flex items-center justify-center">
-              <img
-                src={dalPakwanImg}
-                alt="Dal Pakwan Setup"
-                loading="lazy"
-                className="w-36 h-36 object-contain group-hover:scale-105 transition-transform duration-500 drop-shadow-md"
-              />
-              <div className="absolute inset-0 bg-cream/95 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex flex-col justify-end p-6 text-left">
-                <span className="text-xs uppercase text-gold font-bold">Catering Display</span>
-                <h4 className="text-sm font-bold text-dark font-serif mt-1">Live Dal Pakwan Counter</h4>
-              </div>
-            </ScrollReveal>
-
-            <ScrollReveal delay={0.2} className="relative group overflow-hidden rounded-xl h-64 border border-gold/15 bg-white flex items-center justify-center">
-              <img
-                src={sindhiKadhiImg}
-                alt="Sindhi Kadhi Setup"
-                loading="lazy"
-                className="w-36 h-36 object-contain group-hover:scale-105 transition-transform duration-500 drop-shadow-md"
-              />
-              <div className="absolute inset-0 bg-cream/95 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex flex-col justify-end p-6 text-left">
-                <span className="text-xs uppercase text-gold font-bold">Thali Service</span>
-                <h4 className="text-sm font-bold text-dark font-serif mt-1">Heritage Sindhi Kadhi</h4>
-              </div>
-            </ScrollReveal>
-
-            <ScrollReveal delay={0.3} className="relative group overflow-hidden rounded-xl h-64 border border-gold/15 bg-white flex items-center justify-center">
-              <img
-                src={kokiDahiImg}
-                alt="Koki Dahi Setup"
-                loading="lazy"
-                className="w-36 h-36 object-contain group-hover:scale-105 transition-transform duration-500 drop-shadow-md"
-              />
-              <div className="absolute inset-0 bg-cream/95 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex flex-col justify-end p-6 text-left">
-                <span className="text-xs uppercase text-gold font-bold">Traditional Tastes</span>
-                <h4 className="text-sm font-bold text-dark font-serif mt-1">Koki & Dahi Platter</h4>
-              </div>
-            </ScrollReveal>
-
-            <ScrollReveal delay={0.4} className="relative group overflow-hidden rounded-xl h-64 border border-gold/15 bg-white flex items-center justify-center">
-              <img
-                src={seviyonPatataImg}
-                alt="Meethi Sewayon Setup"
-                loading="lazy"
-                className="w-36 h-36 object-contain group-hover:scale-105 transition-transform duration-500 drop-shadow-md"
-              />
-              <div className="absolute inset-0 bg-cream/95 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex flex-col justify-end p-6 text-left">
-                <span className="text-xs uppercase text-gold font-bold">Dessert Service</span>
-                <h4 className="text-sm font-bold text-dark font-serif mt-1">Meethi Sewayon</h4>
-              </div>
-            </ScrollReveal>
+            {galleryData.slice(0, 4).map((item, index) => (
+              <ScrollReveal
+                key={item.id}
+                delay={(index + 1) * 0.1}
+                className="relative group overflow-hidden rounded-xl h-64 border border-gold/15 bg-white flex items-center justify-center cursor-pointer shadow-xs"
+              >
+                <img
+                  src={item.image}
+                  alt={item.title}
+                  loading="lazy"
+                  className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                />
+                <div className="absolute inset-0 bg-cream/95 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex flex-col justify-end p-6 text-left">
+                  <span className="text-xs uppercase text-gold font-bold">{item.category}</span>
+                  <h4 className="text-sm font-bold text-dark font-serif mt-1">{item.title}</h4>
+                  {item.desc && <p className="text-xs text-text-muted mt-1 truncate">{item.desc}</p>}
+                </div>
+              </ScrollReveal>
+            ))}
           </div>
         </div>
       </section>
