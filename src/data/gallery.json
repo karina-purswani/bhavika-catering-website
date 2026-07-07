@@ -40,5 +40,40 @@
     "category": "Food Items",
     "image": "https://res.cloudinary.com/dwiaolucc/image/upload/v1782661196/bhavika-catering/gallery/butter-paneer-daal-rice-roti-pakoda-complete-thali.jpg",
     "desc": ""
+  },
+  {
+    "id": "g_6",
+    "title": "Button Papdi Sindhi Special",
+    "category": "Food Items",
+    "image": "https://res.cloudinary.com/dwiaolucc/image/upload/v1783415557/bhavika-catering/gallery/button_papdi_sindhi_special.jpg",
+    "desc": ""
+  },
+  {
+    "id": "g_7",
+    "title": "Cheese Corn Mini Samosas",
+    "category": "Food Items",
+    "image": "https://res.cloudinary.com/dwiaolucc/image/upload/v1783415558/bhavika-catering/gallery/cheese_corn_mini_samosas.jpg",
+    "desc": ""
+  },
+  {
+    "id": "g_8",
+    "title": "Gulab Jamun Oval",
+    "category": "Food Items",
+    "image": "https://res.cloudinary.com/dwiaolucc/image/upload/v1783415558/bhavika-catering/gallery/gulab_jamun_oval.jpg",
+    "desc": ""
+  },
+  {
+    "id": "g_9",
+    "title": "Kaju Gulab Jamun Regular",
+    "category": "Food Items",
+    "image": "https://res.cloudinary.com/dwiaolucc/image/upload/v1783415559/bhavika-catering/gallery/kaju_gulab_jamun_regular.jpg",
+    "desc": ""
+  },
+  {
+    "id": "g_10",
+    "title": "Paneer Cheese Corn Pockets",
+    "category": "Food Items",
+    "image": "https://res.cloudinary.com/dwiaolucc/image/upload/v1783415560/bhavika-catering/gallery/paneer_cheese_corn_pockets.jpg",
+    "desc": ""
   }
 ]
